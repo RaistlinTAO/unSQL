@@ -60,20 +60,6 @@ namespace UnSQL.Properties {
             }
         }
         
-        internal static byte[] _32 {
-            get {
-                object obj = ResourceManager.GetObject("_32", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        internal static byte[] _64 {
-            get {
-                object obj = ResourceManager.GetObject("_64", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
         internal static byte[] _7za {
             get {
                 object obj = ResourceManager.GetObject("_7za", resourceCulture);
@@ -81,30 +67,23 @@ namespace UnSQL.Properties {
             }
         }
         
-        internal static byte[] core {
+        internal static byte[] FirebirdShare {
             get {
-                object obj = ResourceManager.GetObject("core", resourceCulture);
+                object obj = ResourceManager.GetObject("FirebirdShare", resourceCulture);
                 return ((byte[])(obj));
             }
         }
         
-        internal static byte[] my {
+        internal static byte[] FirebirdX64 {
             get {
-                object obj = ResourceManager.GetObject("my", resourceCulture);
+                object obj = ResourceManager.GetObject("FirebirdX64", resourceCulture);
                 return ((byte[])(obj));
             }
         }
         
-        internal static byte[] mysqladmin32 {
+        internal static byte[] FirebirdX86 {
             get {
-                object obj = ResourceManager.GetObject("mysqladmin32", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        internal static byte[] mysqladmin64 {
-            get {
-                object obj = ResourceManager.GetObject("mysqladmin64", resourceCulture);
+                object obj = ResourceManager.GetObject("FirebirdX86", resourceCulture);
                 return ((byte[])(obj));
             }
         }

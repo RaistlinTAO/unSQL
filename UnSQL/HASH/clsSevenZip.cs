@@ -74,13 +74,13 @@
 // 
 // CODE DESCRIPTION
 //   
-//         Created by Raistlin.K @ D.E.M.O.N at  18:16  11/06/2012.
+//         Created by Raistlin.K @ D.E.M.O.N at  19:23  13/06/2012.
 //         E-Mail:                         DemonVK@Gmail.com
 //  
 //         Project Name:            UnSQL
 //         Module  Name:          clsSevenZip.cs
 //         Part Of:                        UnSQL
-//         Last Change Date:      23:47 12/06/2012
+//         Last Change Date:      21:02 14/06/2012
 
 #endregion
 

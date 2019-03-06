@@ -121,23 +121,14 @@
   <data name="_7za" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\7za.exe;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="core" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\core.part;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\32.part;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\64.part;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="my" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\my.ini;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="mysqladmin32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mysqladmin32.part;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="FirebirdShare" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FirebirdShare.part;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="mysqladmin64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mysqladmin64.part;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="FirebirdX64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FirebirdX64.part;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="FirebirdX86" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FirebirdX86.part;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

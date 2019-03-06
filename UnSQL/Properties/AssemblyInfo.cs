@@ -74,13 +74,13 @@
 // 
 // CODE DESCRIPTION
 //   
-//         Created by Raistlin.K @ D.E.M.O.N at  16:27  11/06/2012.
+//         Created by Raistlin.K @ D.E.M.O.N at  19:23  13/06/2012.
 //         E-Mail:                         DemonVK@Gmail.com
 //  
 //         Project Name:            UnSQL
 //         Module  Name:          AssemblyInfo.cs
 //         Part Of:                        UnSQL
-//         Last Change Date:      23:47 12/06/2012
+//         Last Change Date:      21:02 14/06/2012
 
 #endregion
 
@@ -95,12 +95,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("D.E.M.O.N UnSQL For MySQL")]
-[assembly: AssemblyDescription("D.E.M.O.N UnSQL For MySQL")]
+[assembly: AssemblyTitle("D.E.M.O.N UnSQL For FireBird")]
+[assembly: AssemblyDescription("D.E.M.O.N UnSQL For FireBird")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("D.E.M.O.N Studio")]
-[assembly: AssemblyProduct("D.E.M.O.N UnSQL For MySQL")]
-[assembly: AssemblyCopyright("D.E.M.O.N UnSQL For MySQL Copyright © D.E.M.O.N Studio 2006 - 2012")]
+[assembly: AssemblyProduct("D.E.M.O.N UnSQL For FireBird")]
+[assembly: AssemblyCopyright("D.E.M.O.N UnSQL For FireBird Copyright © D.E.M.O.N Studio 2006 - 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -112,7 +112,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("15c26a20-478e-4b97-b7ba-22e6e1a657f5")]
+[assembly: Guid("15c26a20-478e-4b97-b7ba-22e6e1a657f6")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -125,5 +125,5 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
+[assembly: AssemblyFileVersion("1.0.1.0")]

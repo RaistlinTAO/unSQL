@@ -43,10 +43,10 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FireBird\Controller.cs" />
     <Compile Include="HASH\clsINI.cs" />
     <Compile Include="HASH\clsOS.cs" />
     <Compile Include="HASH\clsSevenZip.cs" />
-    <Compile Include="MySQL\Controller.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -63,14 +63,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\app.manifest" />
-    <None Include="Resources\32.part" />
-    <None Include="Resources\64.part" />
     <None Include="Resources\7za.exe" />
-    <None Include="Resources\core.part" />
-    <None Include="Resources\my.ini" />
-    <None Include="Resources\mysqladmin32.part" />
-    <None Include="Resources\mysqladmin64.part" />
     <None Include="Properties\UnSQL.pfx" />
+    <None Include="Resources\FirebirdShare.part" />
+    <None Include="Resources\FirebirdX64.part" />
+    <None Include="Resources\FirebirdX86.part" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
